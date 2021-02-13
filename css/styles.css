@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #E4F9F5;
+  font-family: 'Merriweather', sans-serif;
+  font-size: 1em;
+}
+#myimg{
+  border-radius: 50%;
+  height:10%;
+  width:15%;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 4.625em;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.img {
+  position: relative;
+  left: 170px;
+  top: 40px;
+}
+
+.midcloud-img {
+  top: 300px;
+  position: absolute;
+  left: 310px;
+}
+
+.mount {
+  height: 270px;
+  width: 350px;
+  position: relative;
+  top: 70px;
+}
